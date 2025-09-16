@@ -1,6 +1,6 @@
 # Repositorio de Programación No Lineal
 
-¡Bienvenido al repositorio de Programación No Lineal! Este espacio ha sido creado como parte del desarrollo de tareas y ejercicios de la materia de **Programación No Lineal** en [nombre de la institución educativa]. Aquí encontrarás implementaciones, ejemplos y recursos adicionales enfocados en la optimización matemática y sus aplicaciones.
+¡Bienvenido al repositorio de Programación No Lineal! Este espacio ha sido creado como parte del desarrollo de tareas y ejercicios de la materia de **Programación No Lineal**. Aquí encontrarás implementaciones, ejemplos y recursos adicionales enfocados en la optimización matemática y sus aplicaciones.
 
 ## Acerca de Programación No Lineal
 
