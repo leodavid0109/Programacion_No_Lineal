@@ -30,6 +30,7 @@ Este repositorio incluye:
 
 ## Autores
 
-Este repositorio fue desarrollado por estudiantes de la materia de **Programación No Lineal** en [nombre de la institución educativa], como parte de las actividades académicas.
+Repositorio académico desarrollado en la asignatura de **Programación No Lineal** por:  
+- [Leonard David Vivas Dallos](https://github.com/leodavid0109)
 
 ---
